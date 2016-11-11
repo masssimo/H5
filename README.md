@@ -34,7 +34,7 @@ Sitten menin hakemiston *koticonf* juureen ja suoritin seuraavat komennot:
 
 > $ sudo git init
 
-> $ sudo add .
+> $ sudo git add .
 
 > $ sudo git commit -m "First commit"
 
